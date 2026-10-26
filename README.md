@@ -1,4 +1,4 @@
-## Hi there 👋
+## Welcome to my Github! 🎉
 
 <!--
 **Technochu/Technochu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+I'm Technochu, now usually I would make it professional but let's be honest, most of my readers are players of a pony MMO of all things...
+
+I publish wacky projects on here. My dream in life is to help people so expect a lot of guides!
+
+I'm currently learning HTML and CSS and planning to learn Javascript.
+
+#### Please do not "spam follow". I prefer followers who are interested in who I am and what I make 
+
+I also have a [Rentry](https://rentry.co/Technochu)! It goes a bit more in depth about who I am. I'm in the process of switching to Fluffle since it has *apparently* HTML/CSS support so if you want to check it out...it's here ¯\_(ツ)_/¯
