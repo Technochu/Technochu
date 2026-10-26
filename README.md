@@ -22,4 +22,4 @@ I'm currently learning HTML and CSS and planning to learn Javascript.
 
 #### Please do not "spam follow". I prefer followers who are interested in who I am and what I make 
 
-I also have a [Rentry](https://rentry.co/Technochu)! It goes a bit more in depth about who I am. I'm in the process of switching to Fluffle since it has *apparently* HTML/CSS support so if you want to check it out...it's here ¯\_(ツ)_/¯
+I also have a [Fluffle](https://fluffle.cc/technochu) now! It goes a bit more in depth about who I am so if you want to check it out...it's here ¯\_(ツ)_/¯
